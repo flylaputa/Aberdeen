@@ -16,3 +16,6 @@ C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug
 C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\obj\Debug\Aberdeen.csprojResolveAssemblyReference.cache
 C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\obj\Debug\Aberdeen.exe
 C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\obj\Debug\Aberdeen.pdb
+C:\Users\Benny\Documents\GitHub\Aberdeen\Aberdeen\bin\Debug\Aberdeen.exe.config
+C:\Users\Benny\Documents\GitHub\Aberdeen\Aberdeen\obj\Debug\Aberdeen.exe
+C:\Users\Benny\Documents\GitHub\Aberdeen\Aberdeen\obj\Debug\Aberdeen.pdb
