@@ -1,0 +1,21 @@
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\Aberdeen.exe.config
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\Aberdeen.exe
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\Aberdeen.pdb
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.dll
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.pdb
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.xml
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\obj\Debug\Aberdeen.csprojResolveAssemblyReference.cache
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\obj\Debug\Aberdeen.exe
+C:\Users\Benny\Documents\Visual Studio 2013\Projects\Aberdeen\Aberdeen\obj\Debug\Aberdeen.pdb
+C:\Users\Benny\Documents\GitHub\Aberdeen\Aberdeen\bin\Debug\Aberdeen.exe.config
+C:\Users\Benny\Documents\GitHub\Aberdeen\Aberdeen\obj\Debug\Aberdeen.exe
+C:\Users\Benny\Documents\GitHub\Aberdeen\Aberdeen\obj\Debug\Aberdeen.pdb
